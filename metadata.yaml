@@ -1,0 +1,30 @@
+_repo: The-National-Magazine-Vol-XV-No-1-November-1891_73503
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2024-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73503'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=coo.31924007275021&view=1up&seq=16
+pgterms:marc905: 20200417085105various
+pgterms:marc906: '1891'
+pgterms:marc907: US
+production_note: hekula03 and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York City :$bThe National History Company, $c1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The National Magazine, Vol. XV, No. 1, November 1891
+url: http://www.gutenberg.org/ebooks/73503
